@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 	(￢‿￢ )
 
-<!--
-**reol224/reol224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy writing _neat_ open-source code;
+- I am _currently_:
+  - Working on anything involving java and/or Spring Boot.
+  - Trying to improve my coding skills and getting as much practice as possible!
+  - Fluent in Java;
+  - Learning **Adobe Illustrator** and anything I can get my hands on!;
+- :exclamation: Fun fact, I'm the last heir of my family;
+- You can reach me on Discord , **chaotic neutral#9498**.
+- I listen to tons of stuff, you can follow me on [Spotify](https://open.spotify.com/user/hrn1isdy2ia8q7wfb1ew2fah6?si=cvwm72r4TbiDv-K7fF9VoQ).
