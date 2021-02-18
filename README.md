@@ -9,6 +9,6 @@
 - :exclamation: Fun fact, I'm the last heir of my family;
 - You can reach me on Discord , **chaotic neutral#9498**.
 - I listen to tons of stuff, you can follow me on [Spotify](https://open.spotify.com/user/hrn1isdy2ia8q7wfb1ew2fah6?si=cvwm72r4TbiDv-K7fF9VoQ).
-- My [HackerRank](https://www.hackerrank.com/tmdoppelganger) profile.
+- My [Leetcode](https://leetcode.com/reol224/) profile.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=reol224&theme=radical)
