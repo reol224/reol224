@@ -5,7 +5,7 @@
   - Working on anything involving java and/or Spring Boot.
   - Trying to improve my coding skills and getting as much practice as possible!
   - Fluent in Java;
-  - Learning **MongoDB** and anything I can get my hands on!;
+  - Learning **stuff on HackTheBox and chess??** and anything I can get my hands on!;
 - I listen to tons of stuff, you can follow me on [Spotify](https://open.spotify.com/user/hrn1isdy2ia8q7wfb1ew2fah6?si=cvwm72r4TbiDv-K7fF9VoQ).
 - My [Leetcode](https://leetcode.com/reol224/) profile.
 - [Certifications](https://github.com/reol224/Certifications)
