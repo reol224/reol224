@@ -1,5 +1,7 @@
 ### Hi there 	(￢‿￢ )
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
 - I enjoy writing _neat_ open-source code;
 - I am _currently_:
   - Working on anything involving java and/or Spring Boot.
@@ -46,6 +48,7 @@
       "rest",
       "the eternal undying microsoft office",
       "intellij"
+      "undying linux"
       ]
     }
     ]
