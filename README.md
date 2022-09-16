@@ -29,7 +29,7 @@
       "java",
       "spring boot",
       "maven",
-      "basic html"
+      "basic html, css"
       ],
     "databases": [
       "mysql",
@@ -38,11 +38,8 @@
       ],
     "more skills!!": [
       "postman",
-      "jira",
-      "git",
-      "github",
-      "json",
-      "jira",
+      "git, github",
+      "jira, confluence",
       "google cloud",
       "circle ci",
       "rest",
