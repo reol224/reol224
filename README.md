@@ -10,6 +10,7 @@
   - Learning **stuff on HackTheBox and chess??** and anything I can get my hands on!;
 - I listen to tons of stuff, you can follow me on [Spotify](https://open.spotify.com/user/hrn1isdy2ia8q7wfb1ew2fah6?si=cvwm72r4TbiDv-K7fF9VoQ).
 - My [Leetcode](https://leetcode.com/reol224/) profile.
+- I read tons of books and you should too [GoodReads](https://www.goodreads.com/user/show/138443588-iulia-danilov)
 - [Certifications](https://github.com/reol224/Certifications)
 
 ```json
