@@ -16,7 +16,3 @@
 
   
 ![238201082-761f4c99-eda3-4c9a-a4ec-2b6311e2433a](https://github.com/reol224/reol224/assets/27915379/1e5c5754-870a-4f8e-b559-5f3598e2c900)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=reol224&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=reol224&theme=shades-of-purple)
